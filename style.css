@@ -1,0 +1,42 @@
+body {
+    background-image: url(img/kdb.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px, 1080px;
+}
+
+#belgium {
+    position: absolute;
+    top: 400px;
+    left: 760px;
+}
+
+#slovakian {
+    position: absolute;
+    top: 400px;
+    right: 760px;
+}
+
+#countdownTimer{
+    position: absolute;
+    left: 773px;
+    top: 510px;
+}
+
+#euros {
+    position: absolute;
+    height: 50%;
+    width: 33%;
+    left: 835px;
+    top: 15px;
+}
+
+.KDB {
+    font-family: "Montserrat";
+    font-size: 120px;
+    font-weight: bold;
+    color: #FCFF45;
+    position: absolute;
+    left: 785px;
+    top: 15px;
+
+}
